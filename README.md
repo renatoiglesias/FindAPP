@@ -1,13 +1,13 @@
 # { FindAPP : Mural Multi Usuario }
 
-**Findapp** is a multi-user dash web app using the Python - Django infrastructure.
+**Findapp** is a multi-user activities web app using the Python - Django infrastructure.
 ----
 
 ## Features
 
 <br>
 
-![](media/mubapp.gif)
+
 
 <br>
 
